@@ -23,7 +23,7 @@ agents/      builder, reviewer, ui-qa
 hooks/       after-edit.mjs   – po úpravě souboru eslint --fix + typecheck (JS/TS)
              before-commit.mjs – nepustí git commit, dokud neprojdou lint a testy
 templates/   CLAUDE.md, AGENTS.md, BRIEF.md, DECISIONS.md, BACKLOG.md, STATUS.md, settings.json
-skills/      vlastní skilly (copywriting, …)
+skills/      vlastní skilly (copywriting, video-scripty)
 bin/         new-repo.sh, update-repo.sh, install-global.sh
 ```
 
@@ -70,7 +70,7 @@ Pak v projektu:
 **Jen jeden skill bez klonování:**
 
 ```
-npx skills@latest add appitect-dev/agent-setup -a claude-code -s copywriting
+npx skills@latest add appitect-dev/agent-setup -a claude-code -s copywriting video-scripty
 ```
 
 ## Úpravy
@@ -82,6 +82,7 @@ npx skills@latest add appitect-dev/agent-setup -a claude-code -s copywriting
 ## Skilly
 
 - **copywriting** – český prodejní copywriting: titulky, landing a prodejní stránky, e-maily, hooky. Postup v 10 krocích, data o zákaznících, žebříček titulků, česká typografie, poctivá urgence podle práva EU a hodnoticí rubrika. Zdroje jsou v `references/zdroje.md`.
+- **video-scripty** – scénáře krátkých videí (Reels, TikTok, Shorts) z vašich hlasových poznámek: hook, střed jako řetěz „ale / takže“, pointa na konci, výzva k akci. Výstupem jsou body k natočení, ne text k odříkání. Než ho začnete používat, vyplňte `references/hlas.md` a `references/priklady.md`.
 
 ## Licence
 
