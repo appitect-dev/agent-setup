@@ -30,7 +30,7 @@ Text na obrazovce můžeš zesílit žebříčkem ze skillu `copywriting` (téma
 6. Ověř, že střed tvého videa slib splní.
 
 ## Banka hooků
-Osobní banku šablon (vlastní nebo přeložené sbírky) drž mimo repo v `~/.claude/video-scripty/hooky-banka.md`, skill ji načte sám. Sbírky třetích stran do sdíleného repa nedávej.
+Hotové šablony jsou v `hooky-banka.md` (167 šablon podle typu).
 
 Záznam testovaných hooků:
 | Odkaz na originál | Typ | Šablona | Láme očekávání | Metrika originálu | Moje verze | Výsledek testu |

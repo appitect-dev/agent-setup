@@ -34,7 +34,7 @@ Hlasová poznámka nebo brain dump s nápadem na video, odkaz na virální video
 4. **Struktura středu** → `references/struktury-stredu.md`. Vyber 1–2 a zdůvodni.
 5. **Body středu** — 3–6 bodů slovy tvůrce, mezi každé dva spojku. Takt, kam se hodí jen „a pak“, škrtni nebo přepiš. Ke každému bodu vizuál.
 6. **Předznamenání** — 1–2 věty hned po hooku, co divák na konci uvidí. Místo pro reakci nech prázdné do natáčení.
-7. **Hooky** → `references/hooky.md`. 3–5 různých typů, každý jako obraz / text / řeč. Má-li tvůrce osobní banku šablon (`~/.claude/video-scripty/hooky-banka.md`), vyber z ní kandidáty podle typu obsahu a naplň je fakty z poznámky; u každého uveď číslo šablony.
+7. **Hooky** → `references/hooky.md`. 3–5 různých typů, každý jako obraz / text / řeč. Z `references/hooky-banka.md` (167 šablon v 7 kategoriích) vyber kandidáty podle typu obsahu a naplň je fakty z poznámky; u každého uveď číslo šablony.
 8. **Konec a výzva k akci** → `references/konce-cta.md`.
 9. **Kontrola** → `references/rubrika.md` a `references/zakazane.md`. Pod prahem oprav a ohodnoť znovu.
 10. **Test** → `references/testovani.md`. 2–3 hooky nad stejným středem, co sledovat.
