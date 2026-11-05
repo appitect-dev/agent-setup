@@ -28,7 +28,7 @@ Hlasová poznámka nebo brain dump s nápadem na video, odkaz na virální video
 - Z cizích videí přebírej **jen strukturu**, nikdy slova, záběry ani text.
 
 ## Postup
-1. **Hlas** → načti `references/hlas.md` a `references/priklady.md` (pokud jsou vyplněné). Změř tempo, spočítej rozpočet slov pro hook / střed / payoff.
+1. **Hlas** → načti profil tvůrce: `~/.claude/video-scripty/hlas.md` a `priklady.md` (osobní, mimo repo). Když neexistují, vytvoř je ze šablon `references/hlas.md` a `references/priklady.md` a vyplň s tvůrcem. Změř tempo, spočítej rozpočet slov pro hook / střed / payoff.
 2. **Suroviny** — z přepisu vytáhni doslovné věty, konkrétní detaily (čísla, nástroje, situace), názor a jeden problém, který video vyřeší.
 3. **Payoff napřed** — jedna věta, co divák na konci dostane. Bez jasného payoffu se vrať s otázkou na tvůrce.
 4. **Struktura středu** → `references/struktury-stredu.md`. Vyber 1–2 a zdůvodni.

@@ -1,5 +1,6 @@
 # Profil hlasu tvůrce
 
+> Šablona. Vyplněnou verzi ulož do `~/.claude/video-scripty/hlas.md` (osobní data nepatří do sdíleného repa).
 > Vyplň jednou a průběžně upravuj. Bez vyplněného profilu skill píše obecněji – upozorní na to.
 > Nejrychlejší cesta: pošli agentovi 3–5 přepisů svých hlasových poznámek nebo reelů a nech ho profil navrhnout. Pak ho oprav.
 

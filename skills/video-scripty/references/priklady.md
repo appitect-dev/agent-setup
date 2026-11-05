@@ -1,5 +1,6 @@
 # Příklady vlastních reelů
 
+> Šablona. Vyplněnou verzi ulož do `~/.claude/video-scripty/priklady.md` (osobní data nepatří do sdíleného repa).
 > 3–5 přepisů vlastních nejlepších reelů. Ať se navzájem **liší** (jiný typ hooku, jiná délka, jiná struktura), jinak agent kopíruje jeden formát.
 > Vítězné scénáře z testů zapisuj sem i s metrikami a staré slabší vyřazuj.
 

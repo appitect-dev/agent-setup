@@ -82,7 +82,7 @@ npx skills@latest add appitect-dev/agent-setup -a claude-code -s copywriting vid
 ## Skilly
 
 - **copywriting** – český prodejní copywriting: titulky, landing a prodejní stránky, e-maily, hooky. Postup v 10 krocích, data o zákaznících, žebříček titulků, česká typografie, poctivá urgence podle práva EU a hodnoticí rubrika. Zdroje jsou v `references/zdroje.md`.
-- **video-scripty** – scénáře krátkých videí (Reels, TikTok, Shorts) z vašich hlasových poznámek: hook, střed jako řetěz „ale / takže“, pointa na konci, výzva k akci. Výstupem jsou body k natočení, ne text k odříkání. Než ho začnete používat, vyplňte `references/hlas.md` a `references/priklady.md`.
+- **video-scripty** – scénáře krátkých videí (Reels, TikTok, Shorts) z vašich hlasových poznámek: hook, střed jako řetěz „ale / takže“, pointa na konci, výzva k akci. Výstupem jsou body k natočení, ne text k odříkání. Profil vašeho hlasu a příklady vlastních reelů si skill při prvním použití založí v `~/.claude/video-scripty/` (mimo repo).
 
 ## Licence
 
